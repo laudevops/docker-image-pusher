@@ -1,1 +1,1 @@
-xmirrorsecurity/opensca:latest
+alpine:3.19
