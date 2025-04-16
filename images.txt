@@ -1,1 +1,1 @@
-alpine:3.19
+osixia/openldap:1.5.0
