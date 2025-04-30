@@ -1,2 +1,1 @@
-osixia/openldap:1.5.0
-osixia/phpldapadmin:0.9.0
+xuxueli/xxl-job-admin:2.4.0
