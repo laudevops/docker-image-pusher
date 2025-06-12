@@ -1,1 +1,1 @@
-rockylinux:9.3
+ghcr.io/bearer/bearer
