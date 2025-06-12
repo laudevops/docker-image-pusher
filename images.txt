@@ -1,1 +1,1 @@
-bearer/bearer:1.49.0
+rockylinux:9.3
