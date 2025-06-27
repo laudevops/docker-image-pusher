@@ -1,9 +1,1 @@
-jertel/elastalert2:2.24.0
-jertel/elastalert2:2.22.0
-jertel/elastalert2:2.21.0
-jertel/elastalert2:2.20.0
-jertel/elastalert2:2.19.0
-jertel/elastalert2:2.18.0
-jertel/elastalert2:2.17.0
-jertel/elastalert2:2.16.0
-jertel/elastalert2:2.15.0
+jertel/elastalert2:2.6.0
