@@ -1,1 +1,3 @@
-jertel/elastalert2:2.6.0
+apache/skywalking-oap-server:10.2.0
+apache/skywalking-ui:10.2.0
+elasticsearch:8.13.4
