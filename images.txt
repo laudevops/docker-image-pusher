@@ -1,3 +1,2 @@
-apache/skywalking-oap-server:10.2.0
-apache/skywalking-ui:10.2.0
-elasticsearch:8.13.4
+ghcr.io/teableio/teable:latest
+postgres:15.4
