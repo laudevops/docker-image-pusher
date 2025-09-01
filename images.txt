@@ -1,2 +1,1 @@
-ghcr.io/teableio/teable:latest
-postgres:15.4
+sonarqube:10.6-community
