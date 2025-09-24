@@ -1,1 +1,1 @@
-sonarqube:10.6-community
+eclipse-temurin:21-jdk
