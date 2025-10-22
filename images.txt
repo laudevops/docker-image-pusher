@@ -1,1 +1,1 @@
-ghcr.io/kube-vip/kube-vip:1.0.0
+cleanstart/kube-vip:1.0.0
