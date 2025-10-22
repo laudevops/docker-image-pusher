@@ -1,2 +1,1 @@
-ghcr.io/flannel-io/flannel:v0.27.4
-ghcr.io/flannel-io/flannel-cni-plugin:v1.8.0-flannel1
+ghcr.io/kube-vip/kube-vip:v0.8.10
