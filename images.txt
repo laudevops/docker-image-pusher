@@ -1,1 +1,1 @@
-ghcr.io/kube-vip/kube-vip:v0.8.10
+ghcr.io/kube-vip/kube-vip:v0.3.8
