@@ -1,1 +1,1 @@
-ghcr.io/kube-vip/kube-vip:v0.3.8
+docker.io/traefik:2.8.7
