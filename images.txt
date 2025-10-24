@@ -1,1 +1,1 @@
-docker.io/traefik:2.8.7
+sonatype/nexus3:3.85.0
