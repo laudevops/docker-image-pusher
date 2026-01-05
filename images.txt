@@ -1,6 +1,1 @@
-redis:7-alpine
-yyhuni/xingrin-server:v1.0.1
-yyhuni/xingrin-agent:v1.0.1
-yyhuni/xingrin-frontend:v1.0.1
-yyhuni/xingrin-nginx:v1.0.1
-postgres:15
+redis:8.4.0
