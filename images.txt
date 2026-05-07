@@ -1,3 +1,1 @@
-node:22-alpine
-debian:bookworm-slim
-golang:alpine
+node:26.0.0
