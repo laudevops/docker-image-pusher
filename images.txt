@@ -1,1 +1,1 @@
-node:24.15.0
+nacos/nacos-server:v3.2.3
